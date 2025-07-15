@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Office File Viewer",
+  "name": "Microsoft Office Viewer",
   "version": "1.0",
   "description": "Microsoft OfficeのファイルのリンクをOffice Online Viewerで開く拡張機能です。",
   "permissions": [
